@@ -54,7 +54,7 @@ This dashboard is designed for key stakeholders involved in the purchasing proce
 
 #### 1️⃣ **Tables Used:**  
 ## 1️⃣ Tables Used:
-The dataset consists of **10 main tables** used to build the purchasing dashboard:
+The dataset consists of **7 main tables** used to build the purchasing dashboard:
 
 - 📦 **Fact_Purchasing_OrderDetail** – Line-level order details.
 
@@ -160,5 +160,20 @@ The dataset consists of **10 main tables** used to build the purchasing dashboar
 |------------------------|--------------------------------------------|
 | `ProductID`            | Product reference                          |
 | `Category`, `Subcategory` | Product hierarchy                      |
+
+</details>
+
+- 🗂️ **Dim_Product_ProductTable** – Product category and hierarchy.
+
+<details>
+<summary><strong>Table 8: Dim_Product_ProductTable</strong></summary>
+
+| Column Name             | Description                         |
+|--------------------------|-------------------------------------|
+| `ProductID`              | Linked product                      |
+| `ProductCategoryID`      | Category reference                  |
+| `ProductSubcategoryID`   | Subcategory reference               |
+| `Category`               | Product category name               |
+| `Subcategory`            | Product subcategory name            |
 
 </details>
