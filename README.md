@@ -53,7 +53,6 @@ This dashboard is designed for key stakeholders involved in the purchasing proce
 ### 📊 **Data Structure & Relationships**  
 
 #### 1️⃣ **Tables Used:**  
-## 1️⃣ Tables Used:
 The dataset consists of **7 main tables** used to build the purchasing dashboard:
 
 - 📦 **Fact_Purchasing_OrderDetail** – Line-level order details.
@@ -177,3 +176,50 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 | `Subcategory`            | Product subcategory name            |
 
 </details>
+
+#### 2️⃣ Data Relationships:
+
+![Image](https://github.com/user-attachments/assets/413ab62c-e9c4-4db7-9ce0-996079066aad)
+
+| **From Table**                  | **To Table**                     | **Join Key**                | **Relationship Type**                                      |
+|--------------------------------|----------------------------------|-----------------------------|------------------------------------------------------------|
+| `Fact_Purchasing_OrderDetail`  | `Dim_Purchasing_OrderHeader`     | `PurchaseOrderID`           | Many-to-One (many order lines per order header)            |
+| `Fact_Purchasing_OrderDetail`  | `Dim_Product_Product`            | `ProductID`                 | Many-to-One (many order lines for one product)             |
+| `Fact_Purchasing_OrderDetail`  | `Dim_Order_Date`                 | `DueDate` / `ModifiedDate`  | Many-to-One (orders map to one date)                       |
+| `Dim_Purchasing_OrderHeader`   | `Dim_Purchasing_Vendor`          | `VendorID`                  | Many-to-One (multiple orders per vendor)                   |
+| `Dim_Purchasing_ProductVendor` | `Dim_Purchasing_Vendor`          | `VendorID`                  | Many-to-One (vendor supplies many products)                |
+| `Dim_Purchasing_ProductVendor` | `Dim_Product_Product`            | `ProductID`                 | Many-to-One (vendor offers multiple products)              |
+| `Dim_Product_Product`          | `Dim_Product_ProductTaxonomy`    | `ProductSubcategoryID`      | Many-to-One (each product belongs to one subcategory)      |
+| `Fact_Product_Inventory`       | `Dim_Product_Product`            | `ProductID`                 | Many-to-One (each inventory record linked to a product)    |
+
+## 🧠 Design Thinking Process
+
+### 1️⃣ Empathize
+
+![Image](https://github.com/user-attachments/assets/01f69549-563d-480a-b4d1-5c8f199d0e60)
+
+![Image](https://github.com/user-attachments/assets/b1b9cd6c-d055-41bc-b704-dd317f4fda95)
+
+![Image](https://github.com/user-attachments/assets/fc1a9b9e-f170-404e-975d-80afd42e3ad2)
+
+### 2️⃣ Define point of view 
+
+![Image](https://github.com/user-attachments/assets/99ff42d7-d369-4454-9d61-7a605213c0c6)
+
+![Image](https://github.com/user-attachments/assets/ac246e0a-9586-4430-bdef-de351f44ecaa)
+
+### 3️⃣ Ideate
+
+![Image](https://github.com/user-attachments/assets/84fbfa00-a639-4736-85cb-7ac22753b669)
+
+![Image](https://github.com/user-attachments/assets/84fbfa00-a639-4736-85cb-7ac22753b669)
+
+### 4️⃣ Prototype and review
+
+This part is in the dashboard
+
+## 📊 Key Insights & Visualizations
+
+### 🔍 Dashboard Preview
+
+### I. Overview
