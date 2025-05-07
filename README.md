@@ -179,7 +179,7 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 #### 2️⃣ Data Relationships:
 
-![Image](https://github.com/user-attachments/assets/413ab62c-e9c4-4db7-9ce0-996079066aad)
+![Image](https://github.com/user-attachments/assets/5d697c87-7628-4d70-b1d4-3163e44ae1fc)
 
 | **From Table**                  | **To Table**                     | **Join Key**                | **Relationship Type**                                      |
 |--------------------------------|----------------------------------|-----------------------------|------------------------------------------------------------|
