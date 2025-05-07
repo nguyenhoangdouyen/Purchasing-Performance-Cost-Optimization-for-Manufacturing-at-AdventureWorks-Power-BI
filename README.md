@@ -196,23 +196,23 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 ### 1️⃣ Empathize
 
-![Image](https://github.com/user-attachments/assets/01f69549-563d-480a-b4d1-5c8f199d0e60)
+![Image](https://github.com/user-attachments/assets/e69224c7-8272-45b7-9341-2e73aee0be8b)
 
-![Image](https://github.com/user-attachments/assets/b1b9cd6c-d055-41bc-b704-dd317f4fda95)
+![Image](https://github.com/user-attachments/assets/dfd3a807-480c-4382-b57d-71744fdf4e92)
 
-![Image](https://github.com/user-attachments/assets/fc1a9b9e-f170-404e-975d-80afd42e3ad2)
+![Image](https://github.com/user-attachments/assets/92e0d009-b0fe-441d-9901-86ece9a87ca6)
 
 ### 2️⃣ Define point of view 
 
-![Image](https://github.com/user-attachments/assets/99ff42d7-d369-4454-9d61-7a605213c0c6)
+![Image](https://github.com/user-attachments/assets/9c8b2fd9-4bf6-47cc-878f-802d5f67eb66)
 
-![Image](https://github.com/user-attachments/assets/ac246e0a-9586-4430-bdef-de351f44ecaa)
+![Image](https://github.com/user-attachments/assets/7328ee67-4acf-4094-9c7e-ce2c322e54fe)
 
 ### 3️⃣ Ideate
 
-![Image](https://github.com/user-attachments/assets/84fbfa00-a639-4736-85cb-7ac22753b669)
+![Image](https://github.com/user-attachments/assets/a1596b12-a5c2-4008-95fd-b5f6d80ed7f8)
 
-![Image](https://github.com/user-attachments/assets/84fbfa00-a639-4736-85cb-7ac22753b669)
+![Image](https://github.com/user-attachments/assets/a2c1aa14-8610-4927-b839-19261dc8ee31)
 
 ### 4️⃣ Prototype and review
 
