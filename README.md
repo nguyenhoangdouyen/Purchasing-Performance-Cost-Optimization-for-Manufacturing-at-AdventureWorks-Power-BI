@@ -258,4 +258,32 @@ This part is in the dashboard
 
 -> Spending is **concentrated in Pedals, Tires, and large unclassified "(Blank)"** amounts
 
+### I. Product Analysis
 
+![Image](https://github.com/user-attachments/assets/da07a0f4-da91-4480-9d7d-a9b89e608562)
+
+#### **1. Purchase Volume & Average Price**
+- Purchase volume peaked during **April–August** with strong growth, then slightly declined in **October**.
+- Meanwhile, the **average purchase price** showed a steady increase from **34.1** to **35.5**, even as volume tapered off.
+
+#### **2. Inventory Turnover**
+- **Inventory turnover** reached its highest point in **June–July** (23K), reflecting strong mid-year demand or movement.
+- However, from **September** onward, turnover dropped sharply, indicating slower stock movement.
+
+#### **3. SKUs Below Thresholds**
+- Several key SKUs are currently below safety stock thresholds, notably **HL Mountain Frame (145 SKUs)** and **ML Touring Frame (98 SKUs)**.
+- This raises the risk of stockouts if demand picks up or new orders surge.
+
+#### **4. Product & Finished Goods Overview**
+- Finished goods ratio fluctuates between **33–47%**, indicating stock imbalance across product groups.
+- Some groups show lower finished goods levels, which could impact order fulfillment capability.
+
+#### **5. Total Spend by Product**
+- Spending is heavily concentrated on frame lines, with **HL Mountain Frame** leading at **$1.13M**, followed by **ML Touring Frame ($1.01M)**.
+- Other product lines show significantly lower total spend.
+
+#### **6. PO & Backorder Rate**
+- Although total POs for **Components** are not large, the backorder rate is the highest (**18%**), signaling potential supply gaps from vendors.
+
+#### **7. Inventory Status**
+- Many SKUs are currently flagged as **Overstocked**, and the system recommends **Pausing Purchasing** for these items to prevent inventory buildup.
