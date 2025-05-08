@@ -272,8 +272,8 @@ This part is in the dashboard
 
 #### **6. Total Purchase Spend by Sub-Category**
 
-- All sub-categories show **$0 spend**, possibly due to **missing data or filter issues**.
-
--> Lack of sub-category spend data **prevents detailed spending analysis**, impacting strategic procurement decisions at the product level.
+- The sub-category **"(Blank)"** represents the **highest total purchase spend ($22M)**, dwarfing all other defined categories.
+- Categories like **Pedals and Tires and Tubes** show substantial spending **($13M each)**, others like **Jerseys, Shorts, Vests, and Bib-Shorts** have considerably **lower spending ($1M or less).
+-> Spending heavily concentrated in **Pedals and Tires**, suggesting a focus that warrants further demand/sourcing review. Large "(Blank)" spending obscures understanding of where funds are truly allocated.
 
 
