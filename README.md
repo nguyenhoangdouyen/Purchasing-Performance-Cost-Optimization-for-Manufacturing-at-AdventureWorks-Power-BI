@@ -224,56 +224,48 @@ This part is in the dashboard
 
 ### I. Executive Summary
 
-![Image](https://github.com/user-attachments/assets/e35ac020-48b2-4f37-b682-6a92962205b9)
+![Image](https://github.com/user-attachments/assets/c75e1741-a924-43c9-bd16-1452abafb41e)
 
 ### 📌 Key Findings:
 
 #### **1. Total Order, Late Orders and Back Order Rate (%)**
 
-- Total orders peaked in **May–June** (456 orders).
-- Both **Late Orders** and **Back Order Rate** reached their highest in **June–July (~10.5%)**.
-- Steady decline in these two metrics after August.
+- Total orders peaked in **May–June** (456 orders). Both **Late Orders** and **Back Order Rate** reached their highest in **June–July (~10.5%)**. Steady decline in these two metrics after August.
 
 -> Mid-year appears to be a **peak demand period**, stressing the fulfillment system. However, performance **improved significantly in Q4**, indicating better operational control.
 
-
 #### **2. AVG Purchase Order Cost Trend**
 
-- Average PO cost fluctuated between **$6.3K and $7.8K**.
-- Peaked in **March**, dropped sharply by **October**.
-- The Last Month (LM) line remains stable around **$7.0K–$7.2K**.
+- Average PO cost fluctuated between **$6.3K and $7.8K**. Peaked in **March**, dropped sharply by **October**. The Last Month (LM) line remains stable around **$7.0K–$7.2K**.
 
 -> PO costs show **seasonal fluctuations**, suggesting **stronger cost control or supplier negotiations** toward the end of the year.
 
 
 #### **3. Cumulative PO Cost and Cumulative PO Count**
 
-- Cumulative PO Cost steadily increased to **$64M by August**, followed by a sharp drop.
-- This year’s PO count is significantly lower compared to last year.
+- Cumulative PO Cost steadily increased to **$64M by August**, followed by a sharp drop. This year’s PO count is significantly lower compared to last year.
 
 -> Indicates a **batch purchasing strategy** or increased **PO efficiency**, reducing frequency while maintaining volume.
 
 
 #### **4. Top 3 Vendor Pricing vs Market Average Over Time**
 
-- **Chicago City** consistently charges higher than **market average** (~35.5 vs 34.3–34.7).
-- **SUPERSALES** and **Custom Framing** offer **lower-than-market** pricing with consistent trends.
+- **Chicago City** consistently charges higher than **market average** (~35.5 vs 34.3–34.7). **SUPERSALES** and **Custom Framing** offer **lower-than-market** pricing with consistent trends.
 
 -> Heavy reliance on **higher-cost vendors** may impact purchasing efficiency unless there’s a **strategic reason** (e.g. quality, lead time).
 
 
 #### **5. Total PO by Month and Category**
 
-- PO volume peaked in **August**, dropped drastically afterward.
-- The **(Blank)** category dominates, while other categories like Accessories and Components are minimal.
+- PO volume peaked in **August**, dropped drastically afterward. The **(Blank)** category dominates, while other categories like Accessories and Components are minimal.
 
 -> Product classification is likely **incomplete or inconsistent**, which can **limit granular tracking and analysis** by category.
 
 
 #### **6. Total Purchase Spend by Sub-Category**
 
-- The sub-category **"(Blank)"** represents the **highest total purchase spend ($22M)**, dwarfing all other defined categories.
-- Categories like **Pedals and Tires and Tubes** show substantial spending **($13M each)**, others like **Jerseys, Shorts, Vests, and Bib-Shorts** have considerably **lower spending ($1M or less).
+- The sub-category **"(Blank)"** represents the **highest total purchase spend ($22M)**, dwarfing all other defined categories. Categories like **Pedals and Tires and Tubes** show substantial spending **($13M each)**, others like **Jerseys, Shorts, Vests, and Bib-Shorts** have considerably **lower spending ($1M or less).
+
 -> Spending heavily concentrated in **Pedals and Tires**, suggesting a focus that warrants further demand/sourcing review. Large "(Blank)" spending obscures understanding of where funds are truly allocated.
 
 
