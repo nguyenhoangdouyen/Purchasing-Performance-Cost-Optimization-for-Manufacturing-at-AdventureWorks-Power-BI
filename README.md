@@ -269,7 +269,6 @@ This part is in the dashboard
 
 -> Product classification is likely **incomplete or inconsistent**, which can **limit granular tracking and analysis** by category.
 
----
 
 #### **6. Total Purchase Spend by Sub-Category**
 
