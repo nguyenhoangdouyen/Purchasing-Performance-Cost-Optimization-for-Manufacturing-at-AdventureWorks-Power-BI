@@ -258,9 +258,11 @@ This part is in the dashboard
 
 -> Spending is **concentrated in Pedals, Tires, and large unclassified "(Blank)"** amounts
 
-### I. Product Analysis
+### II. Product Analysis
 
 ![Image](https://github.com/user-attachments/assets/da07a0f4-da91-4480-9d7d-a9b89e608562)
+
+### 📌 Key Findings:
 
 #### **1. Purchase Volume & Average Price**
 - Purchase volume peaked during **April–August** with strong growth, then slightly declined in **October**.
@@ -287,3 +289,29 @@ This part is in the dashboard
 
 #### **7. Inventory Status**
 - Many SKUs are currently flagged as **Overstocked**, and the system recommends **Pausing Purchasing** for these items to prevent inventory buildup.
+
+### III. 🤝 Vendor Performance
+
+![Image](https://github.com/user-attachments/assets/c9015710-5d02-4a06-a237-bfbc6af409a5)
+
+### 📌 Key Findings:
+
+#### **1. PO Cost Variance & Pareto Analysis**
+- **Superior Bicycles** leads with **20.6%** of total PO cost variance, indicating a significant impact on purchasing costs.
+- The top 5 vendors contribute over **50%** of total variance, showing a high concentration that requires closer cost control.
+
+#### **2. Vendor Spend & Backorder Risk**
+- **Superior Bicycles** has the highest spend (**$4.56M**) but also shows a high backorder rate (**20%**).
+- **Chicago City Saddles** records the **highest backorder (21.6%)**, signaling a major fulfillment risk.
+- In contrast, vendors like **Victory Bikes (11.8%)** and **Inline Accessories (9.8%)** have lower backorder rates, supporting more stable supply.
+
+#### **3. Average PO Cost & Price Trend**
+- **Superior Bicycles** also leads in **average PO cost ($45.5K)**, with an upward price trend over the past 6 months.
+- Other vendors such as **Inline Accessories ($34.4K)** maintain more stable pricing, helping mitigate price volatility risks.
+
+#### **4. Vendor Segmentation by Spend & Rating**
+- **Victory Bikes** and **Proseware, Inc.** are positioned favorably with balanced spend and higher ratings.
+- Meanwhile, **Chicago City Saddles** and **Superior Bicycles**, despite their high spend, also carry higher fulfillment risks and need tighter monitoring.
+
+#### **5. Preferred Vendor Pipeline**
+- Currently, **91%** of the purchasing pipeline is allocated to **preferred vendors**, ensuring alignment with strategic partners but also requiring close tracking of their performance.
