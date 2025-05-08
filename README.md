@@ -235,22 +235,27 @@ This part is in the dashboard
 
 #### **2. AVG Purchase Order Cost Trend**
 - Average PO cost fluctuated between **$6.3K and $7.8K**. Peaked in **March**, dropped sharply by **October**. The Last Month (LM) line remains stable around **$7.0K–$7.2K**.
+
 -> PO costs **fluctuate seasonally**, with stronger control toward year-end.
 
 #### **3. Cumulative PO Cost and Cumulative PO Count**
 - Cumulative PO Cost steadily increased to **$64M by August**, followed by a sharp drop. This year’s PO count is significantly lower compared to last year.
+
 -> Likely shift to batch purchasing, **fewer but larger POs**.
 
 #### **4. Top 3 Vendor Pricing vs Market Average Over Time**
 - **Chicago City** consistently charges higher than **market average** (~35.5 vs 34.3–34.7). **SUPERSALES** and **Custom Framers** offer **lower-than-market** pricing with consistent trends.
+
 -> **Heavy spend on higher-cost vendors**, suggesting a strategic choice.
 
 #### **5. Total PO by Month and Category**
 - PO volume peaked in **August**, dropped drastically afterward. The **(Blank)** category dominates, while other categories like Accessories and Components are minimal.
+
 -> **Product classification is incomplete**, limiting detailed tracking.
 
 #### **6. Total Purchase Spend by Sub-Category**
 - The sub-category **"(Blank)"** represents the **highest total purchase spend ($22M)**, dwarfing all other defined categories. Categories like **Pedals and Tires and Tubes** show substantial spending **($13M each)**, others like **Jerseys, Shorts, Vests, and Bib-Shorts** have considerably **lower spending ($1M or less).**
+
 -> Spending is **concentrated in Pedals, Tires, and large unclassified "(Blank)"** amounts
 
 
