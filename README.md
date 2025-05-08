@@ -43,6 +43,19 @@ This dashboard is designed for key stakeholders involved in the purchasing proce
 - Are there any unusual spikes in purchasing cost that need further investigation?  
 - How can we improve procurement planning to reduce delays and optimize costs?
 
+**🎯Project Outcome:**
+
+The project provided insights into **order handling**, **cost control**, and **vendor performance**, identifying key improvement areas to optimize operations.
+
+#### Key Results:
+- Improved order management during peak seasons to reduce backorder risks.
+- Optimized PO cost management, ensuring stability throughout the year.
+- Mitigated vendor risks by renegotiating contracts with high-cost suppliers.
+- Enhanced product classification for better resource allocation and spending tracking.
+
+#### Outcome:
+The project enabled data-driven decisions, improving operational efficiency, cost-effectiveness, and vendor management.
+
 ## 📂 Dataset Description & Data Structure
 
 ### **📌 Data Source** 
@@ -320,8 +333,7 @@ This part is in the dashboard
 
 | **Aspect**                     | **Insight**                                                                                                      | **Recommendation**                                                                                       |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Order & PO Performance**      | - Peak demand during May–June creates significant pressure on the operations team, with Late Orders and Back Order Rate reaching their highest in June–July (~10.5%). After August, performance improves. | - Improve order handling capabilities during peak seasons to reduce pressure on the operations team. <br> - Optimize order processing, especially for orders at risk of being late or backordered. |
-| **PO Cost & Trends**            | - PO costs fluctuate significantly throughout the year, peaking in March and dropping sharply by October. Despite fluctuations, PO costs stabilize around $7.0K–$7.2K by the end of the year. | - Maintain strict control over PO costs, especially at year-end, to ensure stable cost levels. <br> - Monitor cost fluctuations throughout the year to adjust procurement strategies proactively, avoiding sudden cost spikes at the beginning of the year. |
-| **Vendor Performance & Risks**  | - Major suppliers like **Chicago City** and **Superior Bicycles** not only have high costs but also present significant backorder risks, with backorder rates of 21.6% and 20%, respectively, posing major delivery risks. | - Renegotiate prices with high-cost suppliers or consider switching suppliers. <br> - Improve delivery processes with high backorder suppliers, or reassess suppliers if the backorder rates remain high. |
-| **Product & Inventory Management** | - Incomplete product classification makes it difficult to track spending accurately. The **Blank** product line accounts for the highest spending ($22M), while categories like **Jerseys** and **Vests** show low spending. | - Improve product classification for better tracking of spending and to avoid omissions. <br> - Focus on high-spending product lines like **Pedals** and **Tires & Tubes** to optimize resource allocation and purchasing strategy. |
-
+| **Order & PO Performance**      | - **Peak demand during May–June** creates significant pressure on operations, with **Late Orders and Back Order Rate** reaching their highest in June–July (~10.5%). After August, performance improves. | - Improve **order handling during peak seasons** to reduce pressure. <br> - Optimize **processing for at-risk orders**. |
+| **PO Cost & Trends**            | - **PO costs fluctuate** throughout the year, peaking in March and dropping sharply by October. Despite fluctuations, PO costs stabilize around $7.0K–$7.2K by year-end. | - Continue to **control PO costs** tightly, especially at year-end. <br> - **Monitor cost fluctuations** and adjust procurement strategy proactively to avoid sudden cost spikes. |
+| **Vendor Performance & Risks**  | - Major suppliers like **Chicago City** and **Superior Bicycles** not only have **high costs** but also present significant **backorder risks**, with backorder rates of **21.6% and 20%** respectively, posing delivery risks. | - **Renegotiate prices** with high-cost suppliers or consider switching suppliers. <br> - Improve delivery processes with high backorder suppliers or reassess suppliers if backorder rates remain high. |
+| **Product & Inventory Management** | - **Incomplete product classification** makes it difficult to track spending accurately. The **Blank** product line accounts for the highest spending ($22M), while categories like **Jerseys** and **Vests** show low spending. | - Improve **product classification** for better tracking of spending and to avoid omissions. <br> - Focus on high-spending product lines like **Pedals** and **Tires & Tubes** to optimize resource allocation and purchasing strategy. |
