@@ -222,7 +222,7 @@ This part is in the dashboard
 
 ### 🔍 Dashboard Preview
 
-### I. Executive Summary
+### 📋 I. Executive Summary
 
 ![Image](https://github.com/user-attachments/assets/c75e1741-a924-43c9-bd16-1452abafb41e)
 
@@ -258,7 +258,7 @@ This part is in the dashboard
 
 -> Spending is **concentrated in Pedals, Tires, and large unclassified "(Blank)"** amounts
 
-### II. Product Analysis
+### 📈 II. Product Analysis
 
 ![Image](https://github.com/user-attachments/assets/da07a0f4-da91-4480-9d7d-a9b89e608562)
 
@@ -292,7 +292,7 @@ This part is in the dashboard
 
 ### III. 🤝 Vendor Performance
 
-![Image](https://github.com/user-attachments/assets/c9015710-5d02-4a06-a237-bfbc6af409a5)
+![Image](https://github.com/user-attachments/assets/27a04562-6258-4915-bc6a-f7ce96745722)
 
 ### 📌 Key Findings:
 
@@ -315,3 +315,13 @@ This part is in the dashboard
 
 #### **5. Preferred Vendor Pipeline**
 - Currently, **91%** of the purchasing pipeline is allocated to **preferred vendors**, ensuring alignment with strategic partners but also requiring close tracking of their performance.
+
+## 🔎 Final Conclusion & Recommendation 
+
+| **Aspect**                     | **Insight**                                                                                                      | **Recommendation**                                                                                       |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Order & PO Performance**      | - Peak demand during May–June creates significant pressure on the operations team, with Late Orders and Back Order Rate reaching their highest in June–July (~10.5%). After August, performance improves. | - Improve order handling capabilities during peak seasons to reduce pressure on the operations team. <br> - Optimize order processing, especially for orders at risk of being late or backordered. |
+| **PO Cost & Trends**            | - PO costs fluctuate significantly throughout the year, peaking in March and dropping sharply by October. Despite fluctuations, PO costs stabilize around $7.0K–$7.2K by the end of the year. | - Maintain strict control over PO costs, especially at year-end, to ensure stable cost levels. <br> - Monitor cost fluctuations throughout the year to adjust procurement strategies proactively, avoiding sudden cost spikes at the beginning of the year. |
+| **Vendor Performance & Risks**  | - Major suppliers like **Chicago City** and **Superior Bicycles** not only have high costs but also present significant backorder risks, with backorder rates of 21.6% and 20%, respectively, posing major delivery risks. | - Renegotiate prices with high-cost suppliers or consider switching suppliers. <br> - Improve delivery processes with high backorder suppliers, or reassess suppliers if the backorder rates remain high. |
+| **Product & Inventory Management** | - Incomplete product classification makes it difficult to track spending accurately. The **Blank** product line accounts for the highest spending ($22M), while categories like **Jerseys** and **Vests** show low spending. | - Improve product classification for better tracking of spending and to avoid omissions. <br> - Focus on high-spending product lines like **Pedals** and **Tires & Tubes** to optimize resource allocation and purchasing strategy. |
+
