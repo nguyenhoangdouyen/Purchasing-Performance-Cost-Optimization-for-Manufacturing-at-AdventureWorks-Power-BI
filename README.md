@@ -1,4 +1,4 @@
-# Purchasing-Performance-Cost-Optimization-for-Manufacturing-at-AdventureWorks-Power-BI
+# Purchasing Performance and Operational Optimization at AdventureWorks 
 
 ![Image](https://github.com/user-attachments/assets/3cbe74ea-1dbf-43c0-a860-fd5e16151c35)
 
